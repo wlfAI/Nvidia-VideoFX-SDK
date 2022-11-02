@@ -1,6 +1,10 @@
 # Nvidia_VideoFX_SDK
 Adopts Nvidia_sdk to realize functions such as Matting, Super-Resolution, and Noise reduction
 
+
+
+
+
 Prerequisites:
 
 1.Ubuntu 18.04 or Ubuntu 20.04 or Centos 7
