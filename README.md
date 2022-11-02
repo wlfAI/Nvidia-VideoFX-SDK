@@ -45,7 +45,7 @@ cd /home/xxxx/mysamples
 ./run_aigs_webcam.sh
 
         
-### "AigsEffectApp [args ...]"
+### 4."AigsEffectApp [args ...]"
 
         "  --in_file=<path>           input file to be processed\n"
 
