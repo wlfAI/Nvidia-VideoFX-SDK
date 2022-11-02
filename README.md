@@ -1,6 +1,6 @@
 # Nvidia-Maxine-SDK(Video Effects SDK)
 
-Adopts Nvidia_sdk to realize functions
+## Adopts Nvidia_sdk to realize functions
 
 1.Virtual Background ****
 
@@ -14,7 +14,7 @@ Adopts Nvidia_sdk to realize functions
 
 
 
-Prerequisites:
+## Prerequisites:
 
 1.Ubuntu 18.04 or Ubuntu 20.04 or Centos 7
 
@@ -27,25 +27,25 @@ Prerequisites:
 5.TensorRT 8.2.5.1
 
 
-The Video Effects SDK can be downloaded from：https://catalog.ngc.nvidia.com/orgs/nvidia/teams/maxine/resources/maxine_linux_video_effects_sdk_ga/version
+## The Video Effects SDK can be downloaded from：https://catalog.ngc.nvidia.com/orgs/nvidia/teams/maxine/resources/maxine_linux_video_effects_sdk_ga/version
 ![image](https://user-images.githubusercontent.com/51230137/199392568-2b662728-f20c-4427-ac17-a163fa5d937a.png)
 
-1.To install the SDK
+### 1.To install the SDK
 
 sudo tar -xvf NVIDIA_VFX_SDK_<OS>_version>.tar.gz -C /usr/local
 
-2.To build the sample applications
+### 2.To build the sample applications
 
 /usr/local/VideoFX/share/build_samples.sh
 
-3.run the AI sample(Matting fuction)
+### 3.run the AI sample(Matting fuction)
 
 cd /home/xxxx/mysamples
 
 ./run_aigs_webcam.sh
 
         
-"AigsEffectApp [args ...]"
+### "AigsEffectApp [args ...]"
 
         "  --in_file=<path>           input file to be processed\n"
 
