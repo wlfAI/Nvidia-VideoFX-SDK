@@ -1,4 +1,4 @@
-# Nvidia_Maxine_SDK(Video Effects SDK)
+# Nvidia-Maxine-SDK(Video Effects SDK)
 
 Adopts Nvidia_sdk to realize functions
 
