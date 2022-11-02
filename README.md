@@ -40,12 +40,6 @@ cd /home/xxxx/mysamples
 
 ./run_aigs_webcam.sh
 
-./AigsEffectApp \
-        --model_dir=$_VFX_MODELS \
-        --in_file=$_VFX_SHARE/samples/input/input_0_100_frames.mp4 \
-        --out_file=output_0_100_frames.mp4 \
-        --comp_mode=2 \
-        --mode=0
         
 "AigsEffectApp [args ...]"
 
