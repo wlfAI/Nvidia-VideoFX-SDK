@@ -48,7 +48,7 @@ cd /home/xxxx/mysamples
         --mode=0
         
 "AigsEffectApp [args ...]"
-        
+
         "  --in_file=<path>           input file to be processed\n"
 
         "  --out_file=<path>          output file to be written\n"
