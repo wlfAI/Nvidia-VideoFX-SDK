@@ -1,9 +1,15 @@
 # Nvidia_Maxine_SDK(Video Effects SDK)
+
 Adopts Nvidia_sdk to realize functions
+
 1.Virtual Background ****
+
 2.Super Resolution (up to 4X scaling factor)
+
 3.Upscaler (up to 4X scaling factor)
+
 4.Artifact Reduction
+
 5.Video Noise Removal
 
 
