@@ -32,9 +32,7 @@ sudo tar -xvf NVIDIA_VFX_SDK_<OS>_version>.tar.gz -C /usr/local
 
 /usr/local/VideoFX/share/build_samples.sh
 
-3.run the AI sample
-
-(1)Matting fuction: 
+3.run the AI sample(Matting fuction)
 
 cd /home/xxxx/mysamples
 
