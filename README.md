@@ -19,3 +19,6 @@ Prerequisites:
 4.cuDNN 8.4.0.27
 
 5.TensorRT 8.2.5.1
+
+The Video Effects SDK can be downloaded from https://catalog.ngc.nvidia.com/orgs/nvidia/teams/maxine/resources/maxine_linux_video_effects_sdk_ga/version
+![image](https://user-images.githubusercontent.com/51230137/199392568-2b662728-f20c-4427-ac17-a163fa5d937a.png)
